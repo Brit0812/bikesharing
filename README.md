@@ -56,7 +56,7 @@ Bringing back the question would the bike sharing program have to tailor its pro
 A couple of additional visualizations that would provide further insight would be: 
 
 * Including both the start and end trip destinations, but with the most popular travel times to understand all the most popular stations during peak 	   hours. This would help understand what areas would possibly need to the most services, possibly add new stations in the area, and so forth.
-*
+* It would be interesting to incoperate weather into the data, to understand how it impact bike usage. The data pulled, was in August, when the weather in typically warm with occasional showers. Since the data is limited in this aspect, understanding other months (data) would prove useful in understanding bike usage under other conditions. 
     
 [link to dashboard]( https://public.tableau.com/views/Bikesharing_Challenge_16607822785370/TaleofCitiBikes?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
