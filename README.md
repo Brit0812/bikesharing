@@ -35,7 +35,7 @@ A map displaying the most common bike stations, based on where the bike trips, s
 
 When looking at individuals and their trip durations, men yet again, are dominating the actual usage of the bikes. But, it’s interesting to note both men and women seem to normally have a trip duration of about 7min long, but those under unknown seem to develop a plateau from 7min to about 27 min. Men and women show a sudden drop in trip duration after 7 min. It would be interesting to understand, why.
 
-[image of the map]
+[image of the map both stations]
 [trip duration map]
 [trip duration map gender]
 
@@ -47,3 +47,10 @@ The most common times to use the program is during rush hour, which is 6-10am an
 Summary
 
 Bringing back the question would the bike sharing program have to tailor its program to the city, rather than keeping the same one that worked well in NYC? The Citibike program is working really well in NYC since there’s so much congestion and its dense population has prominent vehicle, walking, and train traffic. The citibikes provides people with another commuting option. The user base should be addressed, while the program does have a steady base with men, the lack of women should be addressed. Why are women less likely to use the program? If there a safety issue? Is it just not appealing? The bikes get used frequently, mainly during rush hours (morning and evening) and during the weekend. 
+
+A couple of additional visualizations that would provide further insight would be: 
+    * Including both the start and end trip destinations, but with the most popular travel times to understand all the most popular stations during peak  	hours. This would help understand what areas would possibly need to the most services, possibly add new stations in the area, and so forth.
+    *
+    
+[link to dashboard]( https://public.tableau.com/views/Bikesharing_Challenge_16607822785370/TaleofCitiBikes?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
