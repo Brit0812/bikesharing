@@ -26,6 +26,8 @@ When taking a look at those individuals who use the bikes, based on gender, men 
 
 Men are more likely to be subscribers and utilizes the bikes throughout the week, while women are likely to subscribe and use the bikes throughout the week, but not as much as men. Those who are under unknown are less likely to subscribe and use the bikes mainly on the weekend. A question that comes to mind, is why are women less likely to use the program?  
 
+
+![](images/.png)
 [image of the customer type]
 [image with gender usage-heatmap]
 [heat map- weekday]
